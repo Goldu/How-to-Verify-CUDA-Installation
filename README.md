@@ -1,5 +1,4 @@
-# How-to-Verify-CUDA-Installation
-# How to Verify CUDA Installation via Command Line
+# How to Verify CUDA Installation 
 
 ## Description
 
